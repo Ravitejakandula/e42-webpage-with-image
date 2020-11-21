@@ -1,9 +1,15 @@
 # Welcome to my website!
 
-As part of markdown format we have already seen few things in the class. Now we see how to set some text to **bold** or _italic_ and add image to the website.
 
-My name is **Rohini Barla**. I take _Gateway to R&D_ classes.
+My name is **Raviteja**. _I like to spend time with nature_ .  
 
-Here are our students who got selected in Amazon company.
 
-![Our students selected in Amazon](our-students-photo.jpg)
+We are part of **NATURE** . **NATURE** has power to _Renovate_ us. Every living organism on _Earth_ has connection with **NATURE**. **NATURE** consists of _wonderful_ things to show only one thing is to Explore it.**NATURE** consists of _medicinal values_ In Ancient times any _disease_ can can be cured from this **NATURE** .    
+            **NATURE** gives everything , only one thing we do is **SAVE NATURE**  
+            here are the some nature pictures
+
+
+![ mountain pic](mountain-pic.jpg)  
+![nature pic 1](nature-pic-1.jpg)  
+![nature pic 2](nature-pic-2.jpg)  
+  
